@@ -19,3 +19,22 @@ alias desktop="cd ~/Desktop"
 alias prj="cd ~/Projects"
 alias dl="cd ~/Downloads"
 alias gbd="cd ~/Projects/gbd"
+
+# gbd directories
+# BASEDIR="X:/Websites/activechanges/_MAIN"
+BASEDIR="~/Projects/gbd"
+
+# alias main="cd $BASEDIR"
+alias plat="cd $BASEDIR/Platinum-2018"
+alias cufs="cd $BASEDIR/CUFS-2018"
+alias northmain="cd $BASEDIR/North-Main-Responsive"
+alias wright="cd $BASEDIR/The-Wright-Responsive"
+alias combined="cd $BASEDIR/Combined-Employees-Responsive"
+alias cgr="cd $BASEDIR/CGR-Responsive"
+alias chatt="cd $BASEDIR/Chattahoochee-FCU-2016"
+alias ffcu="cd $BASEDIR/ffcu20"
+alias sav="cd $BASEDIR/savannahpostal"
+
+# update the base directory for internal sites
+# BASEDIR="x/Websites/Internal Websites"
+# alias lscu="cd $BASEDIR/LSCU 2020"
