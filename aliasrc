@@ -1,0 +1,21 @@
+# config
+
+alias zshrc="nvim ~/.zshrc"
+alias nrc="cd ~/.config/nvim"
+alias so="source ~/.zshrc"
+alias alrc="nvim ~/commonrc/aliasrc"
+
+# utilities
+
+alias vi="nvim"
+alias rf="rm -rf"
+alias lash="ls -lash"
+alias cl="clear"
+alias gs="git status"
+
+# directory aliases
+
+alias desktop="cd ~/Desktop"
+alias prj="cd ~/Projects"
+alias dl="cd ~/Downloads"
+alias gbd="cd ~/Projects/gbd"
