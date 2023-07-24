@@ -38,5 +38,6 @@ alias sav="cd '$BASEDIR/savannahpostal'"
 
 # update the base directory for internal sites
 
-BASEDIR="x/Websites/Internal Websites"
-alias lscu="cd $BASEDIR/LSCU 2020"
+BASEDIR="X:/Websites/Internal Websites"
+alias lscu="cd '$BASEDIR/LSCU 2020'"
+alias lscu-about="cd '$BASEDIR/LSCU 2020/about'"
