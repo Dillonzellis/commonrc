@@ -13,6 +13,15 @@ alias lash="ls -lash"
 alias cl="clear"
 alias gs="git status"
 
+# yabai
+alias startyab="yabai --start-service"
+alias stopyab="yabai --stop-service"
+
+# night light
+alias nl="nightlight toggle"
+alias nlday="nightlight temp 45"
+alias nlnight="nightlight temp 100"
+
 # directory aliases
 
 alias desktop="cd ~/Desktop"
@@ -25,6 +34,7 @@ alias gbd="cd ~/Projects/gbd"
 BASEDIR="~/Projects/gbd"
 
 # alias main="cd $BASEDIR"
+alias muts="cd $BASEDIR/muts"
 alias plat="cd $BASEDIR/Platinum-2018"
 alias cufs="cd $BASEDIR/CUFS-2018"
 alias northmain="cd $BASEDIR/North-Main-Responsive"
@@ -34,6 +44,7 @@ alias cgr="cd $BASEDIR/CGR-Responsive"
 alias chatt="cd $BASEDIR/Chattahoochee-FCU-2016"
 alias ffcu="cd $BASEDIR/ffcu20"
 alias sav="cd $BASEDIR/savannahpostal"
+alias lscu-about="cd $BASEDIR/LSCU-about"
 
 # update the base directory for internal sites
 # BASEDIR="x/Websites/Internal Websites"
