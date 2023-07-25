@@ -3,7 +3,7 @@
 alias zshrc="nvim ~/.zshrc"
 alias nrc="cd ~/.config/nvim"
 alias so="source ~/.zshrc"
-alias alrc="nvim ~/commonrc/aliasrc"
+alias alrc="cd ~/commonrc"
 
 # utilities
 
@@ -18,7 +18,7 @@ alias startyab="yabai --start-service"
 alias stopyab="yabai --stop-service"
 
 # night light
-alias nl="nightlight toggle"
+alias nl="nightlight on"
 alias nlday="nightlight temp 45"
 alias nlnight="nightlight temp 100"
 
@@ -28,6 +28,9 @@ alias desktop="cd ~/Desktop"
 alias prj="cd ~/Projects"
 alias dl="cd ~/Downloads"
 alias gbd="cd ~/Projects/gbd"
+
+# project directories
+alias smcu="cd ~/Projects/gbd/small-cu/"
 
 # gbd directories
 # BASEDIR="X:/Websites/activechanges/_MAIN"
@@ -44,7 +47,11 @@ alias cgr="cd $BASEDIR/CGR-Responsive"
 alias chatt="cd $BASEDIR/Chattahoochee-FCU-2016"
 alias ffcu="cd $BASEDIR/ffcu20"
 alias sav="cd $BASEDIR/savannahpostal"
+alias lev="cd $BASEDIR/LEVERAGE"
+
+# LSCU directories
 alias lscu-about="cd $BASEDIR/LSCU-about"
+alias lscu-mem="cd $BASEDIR/LSCU-member-engagement"
 
 # update the base directory for internal sites
 # BASEDIR="x/Websites/Internal Websites"
