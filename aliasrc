@@ -3,7 +3,7 @@
 alias zshrc="nvim ~/.zshrc"
 alias nrc="cd ~/.config/nvim"
 alias so="source ~/.bashrc"
-alias alrc="vim ~/commonrc/aliasrc"
+alias alrc="cd ~/commonrc"
 
 # utilities
 
@@ -42,3 +42,4 @@ BASEDIR="X:/Websites/Internal Websites"
 alias lscu="cd '$BASEDIR/LSCU 2020'"
 alias lscu-about="cd '$BASEDIR/LSCU 2020/about'"
 alias lev="cd '$BASEDIR/LEVERAGE/'"
+alias lscu-mem="cd '$BASEDIR/LSCU 2020/member-engagement'"
