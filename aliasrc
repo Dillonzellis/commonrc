@@ -31,6 +31,7 @@ alias gbd="cd ~/Projects/gbd"
 
 # project directories
 alias smcu="cd ~/Projects/gbd/small-cu/"
+alias ecom="cd ~/Projects/ecommerce-dashboard/"
 
 # gbd directories
 # BASEDIR="X:/Websites/activechanges/_MAIN"
