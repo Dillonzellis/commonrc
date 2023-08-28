@@ -28,10 +28,12 @@ alias desktop="cd ~/Desktop"
 alias prj="cd ~/Projects"
 alias dl="cd ~/Downloads"
 alias gbd="cd ~/Projects/gbd"
+alias temp="cd ~/Projects/temp"
 
 # project directories
 alias smcu="cd ~/Projects/gbd/small-cu/"
-alias ecom="cd ~/Projects/ecommerce-dashboard/"
+alias ecom="cd ~/Projects/ecommerce-admin/"
+alias mood="cd ~/Projects/mood"
 
 # gbd directories
 # BASEDIR="X:/Websites/activechanges/_MAIN"
@@ -49,6 +51,7 @@ alias chatt="cd $BASEDIR/Chattahoochee-FCU-2016"
 alias ffcu="cd $BASEDIR/ffcu20"
 alias sav="cd $BASEDIR/savannahpostal"
 alias lev="cd $BASEDIR/LEVERAGE"
+alias telco="cd $BASEDIR/telcoplus-utils"
 
 # LSCU directories
 alias lscu-about="cd $BASEDIR/LSCU-about"
