@@ -52,6 +52,7 @@ alias ffcu="cd $BASEDIR/ffcu20"
 alias sav="cd $BASEDIR/savannahpostal"
 alias lev="cd $BASEDIR/LEVERAGE"
 alias telco="cd $BASEDIR/telcoplus-utils"
+alias ngcu="cd $BASEDIR/ngcu-util"
 
 # LSCU directories
 alias lscu-about="cd $BASEDIR/LSCU-about"
